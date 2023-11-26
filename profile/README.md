@@ -1,7 +1,4 @@
 # Bocon's Macro 
-[![][latest-release-shield]][latest-release-link]
-[![][downloads-shield]][downloads-link]
-
 
 ## Introduction
 Placeholder (TBD)
