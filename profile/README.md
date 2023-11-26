@@ -2,7 +2,7 @@
   <img src="your_profile_picture_url_here" alt="Your Organization Logo">
 </p>
 
-<h1 align="center">Bocon Macro Project</h1>
+<h1 align="center">Bocon's Macro</h1>
 
 <p align="center">
   <!-- Add your badges here, such as release, downloads, etc. -->
