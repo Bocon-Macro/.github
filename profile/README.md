@@ -13,3 +13,4 @@ Bocon:
 I start my day off with a 24oz cold brew, then eat a protein bar or some almond butter toast!
 
 Nooby: 
+idk it changes from day to day
