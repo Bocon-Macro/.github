@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/your_discord_server_link">Join our Discord server</a> |
+  <a href="https://discord.gg/3UfzQSDyY8">Join our Discord server</a> |
   <a href="https://your_docs_link_here">Read the Docs</a>
 </p>
 
