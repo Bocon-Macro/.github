@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Bocon-Macro/.github/assets/71742654/3aee3ee5-f5bd-4410-b53c-ea70135f6938" alt="Organization Logo" width="256" height="256">
+  <img src="https://github.com/Bocon-Macro/.github/assets/71742654/3aee3ee5-f5bd-4410-b53c-ea70135f6938" alt="Organization Logo" width="960" height="540">
 </p>
 
 <h1 align="center">Bocon's Macro</h1>
